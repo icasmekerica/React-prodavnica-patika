@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+          "id": 1,
+          "title": "Jordan 1",
+          "description":
+            "The Jordan 1 is a legendary high-top basketball sneaker created by Nike for Michael Jordan.",
+          "amount": 0,
+          "image": "https://laced.imgix.net/products/555088-063/06.png?auto=format&fit=crop&w=1200"
+        },
+        {
+            "id": 2,
+            "title": "Jordan 3",
+            "description":
+              "A classic mid-top sneaker designed by Nike for Michael Jordan, known for its iconic elephant print.",
+            "amount": 0,
+            "image": "https://laced.imgix.net/products/39c45069-472c-4297-8968-7e3464eb655a.jpg?auto=format&fit=crop&w=1200"
+          },
+          {
+            "id": 3,
+            "title": "Jordan 4",
+            "description":
+              "A popular mid-top basketball sneaker crafted by Nike for Michael Jordan, featuring visible air units and distinctive design elements.",
+            "amount": 0,
+            "image": "https://laced.imgix.net/products/2c3fc004-93bf-44d6-ba1c-7d087c37a934.jpg?auto=format&fit=crop&w=1200"
+          },
+          {
+            "id": 4,
+            "title": "Jordan 5",
+            "description":
+            "Iconic mid-top basketball sneaker with shark teeth midsole and reflective details.",
+            "amount": 0,
+            "image": "https://laced.imgix.net/products/1b7acb16-edb5-47fd-8164-e22b0acde1f3.jpg?auto=format&fit=crop&w=1200"
+          },
+          {
+            "id": 5,
+            "title": "Jordan 11",
+            "description":
+              "Iconic high-top by Nike for Michael Jordan, featuring patent leather, a sleek silhouette, and timeless style since 1995.",
+            "amount": 0,
+            "image": "https://laced.imgix.net/products/634f2bcf-66b7-4ea1-bd07-2d057d8b2832.jpg?auto=format&fit=crop&w=1200"
+          }
+    ]
+}
